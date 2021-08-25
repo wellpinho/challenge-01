@@ -2,18 +2,21 @@
   <div id="app">
     <Navbar />
     <SectionIntro />
+    <Partiners />
   </div>
 </template>
 
 <script>
 import Navbar from './components/navbar.vue'
 import SectionIntro from './components/Section-intro.vue'
+import Partiners from './components/Section-partiners.vue'
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    SectionIntro
+    SectionIntro,
+    Partiners
   }
 }
 </script>
