@@ -1,4 +1,4 @@
-# challenge-01
+# Created by Wellington Pinho
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[Linkedin](https://www.linkedin.com/in/wellpinho/)
