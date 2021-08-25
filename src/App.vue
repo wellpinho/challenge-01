@@ -34,4 +34,9 @@ export default {
     font-family: 'Cabin', sans-serif;
     background-color: #E9ECEF;
   }
+
+  .btn-dark {
+    background-color: rgba(0, 0, 0, 0.932);
+    border: none;
+  }
 </style>
