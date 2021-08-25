@@ -1,5 +1,7 @@
 # Created by Wellington Pinho
 
+<img src="./src/assets/banner.png">
+
 ## Project setup
 ```
 yarn install
