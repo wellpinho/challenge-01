@@ -4,6 +4,7 @@
     <SectionIntro />
     <Partiners />
     <SectionApp />
+    <SectionMidia />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import Navbar from './components/navbar.vue'
 import SectionIntro from './components/Section-intro.vue'
 import Partiners from './components/Section-partiners.vue'
 import SectionApp from './components/Section-app.vue'
+import SectionMidia from './components/Section-midia.vue'
 
 export default {
   name: 'App',
@@ -19,7 +21,8 @@ export default {
     Navbar,
     SectionIntro,
     Partiners,
-    SectionApp
+    SectionApp,
+    SectionMidia
   }
 }
 </script>

@@ -33,7 +33,6 @@ export default {
 
 <style scoped>
   .section-app {
-    height: 100vh;
     margin-top: -1rem;
     background-color: #fff;
     padding-top: 2rem;
