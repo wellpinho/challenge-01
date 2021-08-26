@@ -3,6 +3,7 @@
     <Navbar />
     <SectionIntro />
     <Partiners />
+    <SectionApp />
   </div>
 </template>
 
@@ -10,13 +11,15 @@
 import Navbar from './components/navbar.vue'
 import SectionIntro from './components/Section-intro.vue'
 import Partiners from './components/Section-partiners.vue'
+import SectionApp from './components/Section-app.vue'
 
 export default {
   name: 'App',
   components: {
     Navbar,
     SectionIntro,
-    Partiners
+    Partiners,
+    SectionApp
   }
 }
 </script>

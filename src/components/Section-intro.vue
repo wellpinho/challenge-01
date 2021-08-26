@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-7 align-self-center">
-          <h2>{{ title }}</h2>
+          <h1>{{ title }}</h1>
           <h6>{{ subTitle }}</h6>
           <ul>
             <li>
@@ -60,7 +60,7 @@ export default {
   ul {
     list-style: none;
   }
-  h2 {
+  h1 {
     font-weight: 600;
     font-size: 3.5rem;
   }
